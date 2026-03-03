@@ -1,6 +1,7 @@
 :root {
-  --darkblue: #2B3078;
-  --lightblue: #6871ea;
+  --darkblue  : #1D4C98;
+  --lightblue : #6871ea;
+  --grey      : #8D96AA;
 }
 
 body.waitpage {
